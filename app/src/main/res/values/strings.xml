@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MiAgenda</string>
+    <string name="buscar_personal">Buscar Personal</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="email">Email</string>
+    <string name="telefono">Teléfono</string>
+    <string name="edad">Edad</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+    <string name="borrar_personal">¿Borrar Personal?</string>
+    <string name="yes">Si, Borrar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
